@@ -1,0 +1,20 @@
+
+BOM for 2-8-22 timbre trasher pots board
+
+Part         Value         Device           Package            Description                                        
+                    5         
+BIAS         10K LIN       9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style           
+                   5         
+CV1          THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                    
+CV1-LEV      100K LIN      9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style           
+                  5         
+CV2          THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                    
+CV2-LEV      100K LIN      9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style           
+                     
+INPUT        THONKICONNNEW THONKICONNNEW    WQP-PJ301M-12_JACK 3.5mm socket for Eurorack modular synths                    
+INPUT-LEVEL  10K LIN       9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT    9mm vertical snap-in pot, Alpha / Panasonic style           
+     
+ R1           82K           R-US_0207/10     0207/10            RESISTOR, American symbol                                   
+R2           10K           R-US_0207/10     0207/10            RESISTOR, American symbol                                   
+R3           10K           R-US_0207/10     0207/10            RESISTOR, American symbol                                   
+ 

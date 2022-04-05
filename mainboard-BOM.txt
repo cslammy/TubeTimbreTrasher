@@ -1,0 +1,71 @@
+
+TUBE TIMBER TRASHER 2-10-22FIX BOM
+
+
+Part            Value  Device                   Package           Description                          POPULARITY  
+AUDOFFSET       25K    R-TRIMM64W               RTRIM64W          Trimm resistor                       0          X          J           POT         
+C1+                    C-US025-025X050          C025-025X050      CAPACITOR, American symbol           0                     C                       
+C2                     C-US025-025X050          C025-025X050      CAPACITOR, American symbol           0                     C                       
+C3              .22uF  C5/3.5                   C5B3.5            CAPACITOR                                                  C                       
+C4+                    C-US025-030X050          C025-030X050      CAPACITOR, American symbol           1                     C                       
+C5                     C-US025-025X050          C025-025X050      CAPACITOR, American symbol           0                     C                       
+C6+                    C-US025-025X050          C025-025X050      CAPACITOR, American symbol           0                     C                       
+C7                     C-US025-025X050          C025-025X050      CAPACITOR, American symbol           0                     C                       
+C8              .1uF   C5/2.5                   C5B2.5            CAPACITOR                                                  C                       
+C9              1uF    CPOL-USE2.5-6            E2,5-6            POLARIZED CAPACITOR, American symbol 14                    C                       
+C10                    C-US025-025X050          C025-025X050      CAPACITOR, American symbol           0                     C                       
+C11+                   C-US025-025X050          C025-025X050      CAPACITOR, American symbol           0                     C                       
+C12+                   C-US025-025X050          C025-025X050      CAPACITOR, American symbol           0                     C                       
+C13                    C-US025-025X050          C025-025X050      CAPACITOR, American symbol           0                     C                       
+C14             .22uF  C5/3.5                   C5B3.5            CAPACITOR                                                  C                       
+C15             1uF    CPOL-USE2.5-6            E2,5-6            POLARIZED CAPACITOR, American symbol 14                    C                       
+CATH            1      WIREPAD1,6/0,9           1,6/0,9           Wire PAD connect wire on PCB         0                     X                       
+                 3                     X                       
+IC1             TL072P TL072P                   DIL08             OP AMP                                                                             
+IC2             TL072P TL072P                   DIL08             OP AMP                                                     B                       
+IC3             TL072P TL072P                   DIL08             OP AMP                                                     B                       
+IC4             TL072P TL072P                   DIL08             OP AMP                                                     B                       
+IC5             TL081P TL081P                   DIL08             OP AMP                                                     X                       
+INIT-BIAS       25K    R-TRIMM64W               RTRIM64W          Trimm resistor                       0          X          J           POT         
+                                      
+R1              100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R2              100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R3              100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R4              100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R5              100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R6              100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R7              100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R8              100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R9              100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R10             100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R11             2.2K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R12             100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R13             1M     R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R14             68K    R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R15             8.2K   R-US_0204/7              0204/7            RESISTOR, American symbol            48                    R                       
+R16             30k    R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R17             30k    R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R18             1K     R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R19             270    R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R20             10K    R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R21             8.2K   R-US_0207/7              0207/7            RESISTOR, American symbol            22                    R                       
+R22             1K     R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R23             270    R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R24             1K     R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R25             1K     R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R26             1K     R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R27             1K     R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R28             1M     R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R29             100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R30             100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R31             100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R32             100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R33             100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R34             200K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R35             2.2K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R36             68K    R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R37             1K     R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R38             68K    R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R39             1K     R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+R40             100K   R-US_0204/7              0204/7            RESISTOR, American symbol                                  R                       
+                                                                 

@@ -1,0 +1,12 @@
+2x 1J24B PCB  part of 2-8-22 timbre trasher
+
+Part   Value Device          Package    Description                  POPULARITY SPICEPREFIX
+1J24-1       1J24B           6PINSOLDER                                                    
+1J24-2       1J24B           6PINSOLDER                                                    
+D2           1N4148DO35-7    DO35-7     DIODE                        58         D          
+D3           1N4148DO35-7    DO35-7     DIODE                        58         D          
+LED1         LED3MM          LED3MM     LED                                     L          
+LED2         LED3MM          LED3MM     LED                                     L          
+R1     1.5K  R-US_0207/10    0207/10    RESISTOR, American symbol               R          
+R2     1.5K  R-US_0207/10    0207/10    RESISTOR, American symbol               R          
+ 
